@@ -10,4 +10,4 @@ This is the Pyhton solution to the prediction step in EKF-SLAM algorithm.
 **correction.py**
 This is the Python solution to the correction step in EKF-SLAM algorithm. 
 
-*The plot functions in tools.py file is written by "[@icfaust](https://github.com/icfaust)"*
+*The plot functions in tools.py file is written by [@icfaust](https://github.com/icfaust)*
