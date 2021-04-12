@@ -1,2 +1,2 @@
 # Robot-Mapping
-Python solution to Robot Mapping Cyrill Stachniss course
+Python solutions to Robot Mapping course by Cyrill Stachniss
