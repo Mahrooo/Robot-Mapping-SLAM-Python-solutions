@@ -2,7 +2,7 @@ from tools import *
 import EKF_SLAM
 import prediction
 import correction
-import matplotlib.animation as animation
+
 # This is the main extended Kalman filter SLAM loop. This script calls all the required
 # functions in the correct order.
 #
